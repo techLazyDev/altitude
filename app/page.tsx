@@ -10,7 +10,7 @@ export default function Home() {
             <p className='text-[#757575] font-light'>Whether you&apos;re scaling mountains, exploring city streets, or relaxing by the fire, Altitude Hoodie is built to keep up with your every adventure. Crafted with premium materials, unmatched comfort, and timeless style, it&apos;s the perfect layer for wherever life takes you.</p>
             <a className='bg-[#DFFF48] font-bold rounded-xl flex items-center justify-between w-64 py-3 px-5'>PRE-ORDERS ONLY <ArrowRight strokeWidth="3"/></a>
           </div>
-          <div className='lg:w-1/2 w-full flex flex-col justify-center'>
+          <div className='lg:w-1/2 w-full flex justify-center'>
             <img src='/assets/main.png'/>
           </div>
       </div>
